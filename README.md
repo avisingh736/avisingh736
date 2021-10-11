@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, My name is Avinash Kumar.
+#### A highly organised and forward-thinking software developer offering around 5 years of experience in building, integrating, testing, and supporting native applications for mobile and tablet devices on the android platform.
 
-<!--
-**avisingh736/avisingh736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/java-%23f89820.svg?&style=for-the-badge&logo=java&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/>
 
-Here are some ideas to get you started:
+- 🔭 Currently working on <a href="https://play.google.com/store/apps/details?id=com.omoe" rel="nofollow">OMOE</a>
+- 👯 Looking to collaborate on Android projects.
+- 💬 Ask me about Android, Java and Kotlin.
+- 📫 How to reach me: <a href="mailto:avisingh736@gmail.com">avisingh736@gmail.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/avisingh736)  
+
+[<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/avisingh736) [<img src='https://img.shields.io/badge/linkedin-%235ab0f7.svg?&style=for-the-badge&logo=linkedin&logoColor=white' height='40'>](https://www.linkedin.com/in/avinashkumar-736/) [<img src='https://img.shields.io/badge/stack%20overflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white' height='40'>](https://stackoverflow.com/users/4693278/avinash-kumar) [<img src='https://img.shields.io/badge/upwork-%23108600.svg?&style=for-the-badge&logo=upwork&logoColor=white' height='40'>](https://www.upwork.com/freelancers/~01a48b78f86811b786)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=avisingh736&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=avisingh736&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisingh736&layout=compact" />
+</div>
