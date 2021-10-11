@@ -17,6 +17,6 @@
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=avisingh736&count_private=true&include_all_commits=true&show_icons=true&theme=radical&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisingh736&count_private=true&include_all_commits=true&show_icons=true&theme=radical&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=avisingh736&count_private=true&include_all_commits=true&show_icons=true&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisingh736&count_private=true&include_all_commits=true&show_icons=true&theme=dark&layout=compact" />
 </div>
