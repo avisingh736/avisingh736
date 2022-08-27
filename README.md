@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Avinash Kumar.
-#### A highly organised and forward-thinking software developer offering around 5 years of experience in building, integrating, testing, and supporting native applications for mobile and tablet devices on the android platform.
+#### Highly experienced, solutions-oriented professional with 5+ years of remarkable background in overseeing all aspects of the Software Development Life Cycle, from extensive analysis and design through execution and maintenance. Proficient in utilizing a wide variety of programs and tools to provide high-quality and cost-effective applications/ systems to boost organizational efficiency and productivity. Possess unmatched coding and testing skills to deliver client/business-specific programs.
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/java-%23F89820.svg?&style=for-the-badge&logo=java&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/>
 
